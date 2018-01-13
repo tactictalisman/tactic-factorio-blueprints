@@ -11,7 +11,7 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
   * Blueprints
 * Military
 * Smelting
-## 1.6 Science per Minute Base
+## 1.6 Science per Second Base
 
 ## Bot Base
 
