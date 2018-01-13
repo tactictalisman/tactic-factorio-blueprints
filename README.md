@@ -11,6 +11,8 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
   * Blueprints
 * Military
 * Smelting
+  * [Stone Furnace x32 Yellow Belts](https://github.com/tactictalisman/tactic-factorio-blueprints/blob/master/main-bus-base/smelting/stone-furnace-x32-yellow-belt.md)
+  * [Steel Furnace x32 Red Belts](https://github.com/tactictalisman/tactic-factorio-blueprints/blob/master/main-bus-base/smelting/steel-furnace-x32-red-belt.md)
 ## 1.6 Science per Second Base
 
 ## Bot Base
