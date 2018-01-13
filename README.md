@@ -4,13 +4,13 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
 ## Early Game
 
 ## Vanila Belt Base
-Logistics
-Trains
-Science
-Factory Lines - Book
-    Blueprints
-Military
-Smelting
+* Logistics
+* Trains
+* Science
+* Factory Lines - Book
+  * Blueprints
+* Military
+* Smelting
 ## 1.6 Science per Minute Base
 
 ## Bot Base
@@ -36,10 +36,10 @@ Factorio is factory building simulation game. The premises is that you have cras
 
 ## Creator
 Tactic Talisman
-[https://tactictalisman.blogspot.com/](https://tactictalisman.blogspot.com/)
-[https://twitter.com/tactictalisman](https://twitter.com/tactictalisman)
-[https://www.youtube.com/user/tactictalisman/](https://www.youtube.com/user/tactictalisman/)
-[https://github.com/tactictalisman](https://github.com/tactictalisman)
+* [https://tactictalisman.blogspot.com/](https://tactictalisman.blogspot.com/)
+* [https://twitter.com/tactictalisman](https://twitter.com/tactictalisman)
+* [https://www.youtube.com/user/tactictalisman/](https://www.youtube.com/user/tactictalisman/)
+* [https://github.com/tactictalisman](https://github.com/tactictalisman)
 
 ## Copyright and license
 
