@@ -3,7 +3,7 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
 
 ## Early Game
 
-## Vanila Belt Base
+## Vanila Main Bus Belt Base
 * Logistics
 * Trains
 * Science
